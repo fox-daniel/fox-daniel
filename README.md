@@ -5,7 +5,7 @@ I approach software engineering by developing well-tested and well-documented co
 
 Recent projects:
 
-- Co-authored the Rust crate `iterative_methods_rs`
+- Co-authored the Rust crate [`iterative_methods`](https://crates.io/crates/iterative_methods)
 	- (Weighted) Reservoir Sampling implemented, tested, and demonstrated with visualizations for a 
 	- YAML adaptor for writing data to file as part of an iterative method
-- Gender bias in music genre labels in Wikipedia
+- [Gender bias in music genre labels in Wikipedia] (https://github.com/fox-daniel/Genre)
