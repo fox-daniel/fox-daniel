@@ -14,6 +14,3 @@ Personal projects:
 	artists with >5 genre labels
 	- Scrape, clean and normalize culturally complex text labels (genres) from Wikipedia
 	- Based on a Kaggle dataset of 15K musicians with gender labels
-- Implemented a [random forest algorithm](https://github.com/fox-daniel/random_forest) from scratch in Python
-	- Used cProfile to find the bottlenecks and make targeted optimizations that improved the speed by more than 100x over the initial design
-	- Use PyTest for automated testing
