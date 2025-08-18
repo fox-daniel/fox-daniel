@@ -8,6 +8,8 @@ Personal projects:
 - Co-authored the Rust crate [`iterative_methods`](https://crates.io/crates/iterative_methods)
 	- (Weighted) Reservoir Sampling implemented, tested, and demonstrated with visualizations for a 
 	- YAML adaptor for writing data to file as part of an iterative method
+- Unscrolled
+	- A prtotype UI for AI assistants with collapsible responses that makes it easier to navigate long exchanges.
 - [Gender bias](https://github.com/fox-daniel/Genre) in music genre labels in Wikipedia
 	- 2nd Place Award for NYC Digital Humanities Graduate Student Project
 	- χ-square test showing that female artists are significantly under-represented among all
