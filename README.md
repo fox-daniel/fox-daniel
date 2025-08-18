@@ -9,7 +9,7 @@ Personal projects:
 	- (Weighted) Reservoir Sampling implemented, tested, and demonstrated with visualizations for a 
 	- YAML adaptor for writing data to file as part of an iterative method
 - [Unscrolled](https://github.com/fox-daniel/unscrolled)
-	- A prtotype UI for AI assistants with collapsible responses that makes it easier to navigate long exchanges.
+	- A prototype UI for AI assistants with collapsible responses that makes it easier to navigate long exchanges.
  	- Most of the code was generated using Claude Desktop to rapidly develop a demo. This is not intended for use but only to demo the kinds of features that I think will make AI Assistants more useful.
 - [Gender bias](https://github.com/fox-daniel/Genre) in music genre labels in Wikipedia
 	- 2nd Place Award for NYC Digital Humanities Graduate Student Project
