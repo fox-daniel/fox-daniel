@@ -4,7 +4,7 @@
 I solve busines problems through data science and software engineering. Beginning with the MVP, I iterate using profiling and testing to achieve performant systems and derive actionable insights based on well-tested and well-documented code. Experienced solving complex geospatial data challenges through cross-team collaboration, I can draw on ML and statistics in my engineering. With two PhDs in math and music I take an agile approach to solving novel challenges that increase business value.
 
 Personal projects:
-
+- Actively building Cap'n Proto Exporters and Receivers in Rust that integrate into the opentelemetry ecosystem. See [opentelemetry-otlp-capnp](https://github.com/fox-daniel/opentelemetry-otlp-capnp).
 - Co-authored the Rust crate [`iterative_methods`](https://crates.io/crates/iterative_methods)
 	- (Weighted) Reservoir Sampling implemented, tested, and demonstrated with visualizations for a 
 	- YAML adaptor for writing data to file as part of an iterative method
