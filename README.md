@@ -6,7 +6,7 @@ I solve busines problems through data science and software engineering. Beginnin
 Personal projects:
 - Actively building Cap'n Proto Exporters and Receivers in Rust that integrate into the opentelemetry ecosystem. See [opentelemetry-otlp-capnp](https://github.com/fox-daniel/opentelemetry-otlp-capnp).
 - Co-authored the Rust crate [`iterative_methods`](https://crates.io/crates/iterative_methods)
-	- (Weighted) Reservoir Sampling implemented, tested, and demonstrated with visualizations for a 
+	- (Weighted) Reservoir Sampling implemented, tested, and [demonstrated with visualizations](https://nirinor.ai/book/iterative_methods_part_3.html).
 	- YAML adaptor for writing data to file as part of an iterative method
 - [Unscrolled](https://github.com/fox-daniel/unscrolled)
 	- A prototype UI for AI assistants with collapsible responses that makes it easier to navigate long exchanges.
